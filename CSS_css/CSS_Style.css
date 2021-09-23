@@ -1,0 +1,23 @@
+#Kategorie li:nth-child(2) a{
+  color: rgb(160, 160, 160);
+}
+
+/* CSS Study */
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.box {
+  border-width: 5px;
+  border-color: blue;
+  border-style: solid;
+}
+
+.plus {
+  padding: 20px;
+  margin: 20px;
+}

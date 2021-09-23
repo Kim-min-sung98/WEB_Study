@@ -1,0 +1,13 @@
+#Kategorie li:nth-child(1) a{
+  color: rgb(160, 160, 160);
+}
+
+img {
+  width: 400px;
+}
+
+@media(max-width:900px){
+  img{
+    width: 100%;
+  }
+}
